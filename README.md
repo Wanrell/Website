@@ -6,7 +6,7 @@ Simple website template for hosting different personal projects & information al
 - Number of modifiable pages: Homepage, About, Services, Portfolio, Contact.
 
 ## To-do List
-[] Add more text and formatting
-[] Fix hamburger menu & mobile layout
-[] Work on embedding links and content
-[] Launch finished version
+- [ ] Add more text and formatting
+- [ ] Fix hamburger menu & mobile layout
+- [ ] Work on embedding links and content
+- [ ] Launch finished version
